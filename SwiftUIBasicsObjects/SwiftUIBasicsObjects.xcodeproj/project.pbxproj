@@ -12,6 +12,7 @@
 		E696535C2C791C5100755046 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E696535B2C791C5100755046 /* Assets.xcassets */; };
 		E696535F2C791C5100755046 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E696535E2C791C5100755046 /* Preview Assets.xcassets */; };
 		E69653662C79810A00755046 /* TextEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69653652C79810A00755046 /* TextEditorView.swift */; };
+		E69653682C79877500755046 /* TogglesPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69653672C79877500755046 /* TogglesPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		E696535B2C791C5100755046 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E696535E2C791C5100755046 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E69653652C79810A00755046 /* TextEditorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorView.swift; sourceTree = "<group>"; };
+		E69653672C79877500755046 /* TogglesPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TogglesPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				E69653572C791C4F00755046 /* SwiftUIBasicsObjectsApp.swift */,
 				E69653592C791C4F00755046 /* TextFields.swift */,
 				E69653652C79810A00755046 /* TextEditorView.swift */,
+				E69653672C79877500755046 /* TogglesPractice.swift */,
 				E696535B2C791C5100755046 /* Assets.xcassets */,
 				E696535D2C791C5100755046 /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E69653682C79877500755046 /* TogglesPractice.swift in Sources */,
 				E696535A2C791C4F00755046 /* TextFields.swift in Sources */,
 				E69653662C79810A00755046 /* TextEditorView.swift in Sources */,
 				E69653582C791C4F00755046 /* SwiftUIBasicsObjectsApp.swift in Sources */,
