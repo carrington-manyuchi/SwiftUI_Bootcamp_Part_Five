@@ -16,6 +16,11 @@
 		E696536A2C798C5500755046 /* PickerFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69653692C798C5500755046 /* PickerFields.swift */; };
 		E696536C2C79936300755046 /* ColorPickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E696536B2C79936300755046 /* ColorPickers.swift */; };
 		E696536E2C7995B000755046 /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E696536D2C7995B000755046 /* DatePickerBootcamp.swift */; };
+		E69653702C799A4E00755046 /* Steppers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E696536F2C799A4E00755046 /* Steppers.swift */; };
+		E69653722C799C5F00755046 /* SliderComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69653712C799C5F00755046 /* SliderComponent.swift */; };
+		E69653742C799EAF00755046 /* TabViewComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69653732C799EAF00755046 /* TabViewComponent.swift */; };
+		E69653762C79A3F900755046 /* PageTabViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69653752C79A3F900755046 /* PageTabViews.swift */; };
+		E69653782C79A73100755046 /* AdaptableColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69653772C79A73100755046 /* AdaptableColors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +34,11 @@
 		E69653692C798C5500755046 /* PickerFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerFields.swift; sourceTree = "<group>"; };
 		E696536B2C79936300755046 /* ColorPickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickers.swift; sourceTree = "<group>"; };
 		E696536D2C7995B000755046 /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
+		E696536F2C799A4E00755046 /* Steppers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Steppers.swift; sourceTree = "<group>"; };
+		E69653712C799C5F00755046 /* SliderComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderComponent.swift; sourceTree = "<group>"; };
+		E69653732C799EAF00755046 /* TabViewComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewComponent.swift; sourceTree = "<group>"; };
+		E69653752C79A3F900755046 /* PageTabViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageTabViews.swift; sourceTree = "<group>"; };
+		E69653772C79A73100755046 /* AdaptableColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptableColors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +78,11 @@
 				E69653692C798C5500755046 /* PickerFields.swift */,
 				E696536B2C79936300755046 /* ColorPickers.swift */,
 				E696536D2C7995B000755046 /* DatePickerBootcamp.swift */,
+				E696536F2C799A4E00755046 /* Steppers.swift */,
+				E69653712C799C5F00755046 /* SliderComponent.swift */,
+				E69653732C799EAF00755046 /* TabViewComponent.swift */,
+				E69653752C79A3F900755046 /* PageTabViews.swift */,
+				E69653772C79A73100755046 /* AdaptableColors.swift */,
 				E696535B2C791C5100755046 /* Assets.xcassets */,
 				E696535D2C791C5100755046 /* Preview Content */,
 			);
@@ -155,10 +170,15 @@
 				E69653682C79877500755046 /* TogglesPractice.swift in Sources */,
 				E696536C2C79936300755046 /* ColorPickers.swift in Sources */,
 				E696536A2C798C5500755046 /* PickerFields.swift in Sources */,
+				E69653722C799C5F00755046 /* SliderComponent.swift in Sources */,
+				E69653742C799EAF00755046 /* TabViewComponent.swift in Sources */,
 				E696536E2C7995B000755046 /* DatePickerBootcamp.swift in Sources */,
 				E696535A2C791C4F00755046 /* TextFields.swift in Sources */,
 				E69653662C79810A00755046 /* TextEditorView.swift in Sources */,
+				E69653782C79A73100755046 /* AdaptableColors.swift in Sources */,
 				E69653582C791C4F00755046 /* SwiftUIBasicsObjectsApp.swift in Sources */,
+				E69653702C799A4E00755046 /* Steppers.swift in Sources */,
+				E69653762C79A3F900755046 /* PageTabViews.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
