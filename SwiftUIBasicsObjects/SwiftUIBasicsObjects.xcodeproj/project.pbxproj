@@ -13,6 +13,9 @@
 		E696535F2C791C5100755046 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E696535E2C791C5100755046 /* Preview Assets.xcassets */; };
 		E69653662C79810A00755046 /* TextEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69653652C79810A00755046 /* TextEditorView.swift */; };
 		E69653682C79877500755046 /* TogglesPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69653672C79877500755046 /* TogglesPractice.swift */; };
+		E696536A2C798C5500755046 /* PickerFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69653692C798C5500755046 /* PickerFields.swift */; };
+		E696536C2C79936300755046 /* ColorPickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E696536B2C79936300755046 /* ColorPickers.swift */; };
+		E696536E2C7995B000755046 /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E696536D2C7995B000755046 /* DatePickerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +26,9 @@
 		E696535E2C791C5100755046 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E69653652C79810A00755046 /* TextEditorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorView.swift; sourceTree = "<group>"; };
 		E69653672C79877500755046 /* TogglesPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TogglesPractice.swift; sourceTree = "<group>"; };
+		E69653692C798C5500755046 /* PickerFields.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerFields.swift; sourceTree = "<group>"; };
+		E696536B2C79936300755046 /* ColorPickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickers.swift; sourceTree = "<group>"; };
+		E696536D2C7995B000755046 /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				E69653592C791C4F00755046 /* TextFields.swift */,
 				E69653652C79810A00755046 /* TextEditorView.swift */,
 				E69653672C79877500755046 /* TogglesPractice.swift */,
+				E69653692C798C5500755046 /* PickerFields.swift */,
+				E696536B2C79936300755046 /* ColorPickers.swift */,
+				E696536D2C7995B000755046 /* DatePickerBootcamp.swift */,
 				E696535B2C791C5100755046 /* Assets.xcassets */,
 				E696535D2C791C5100755046 /* Preview Content */,
 			);
@@ -144,6 +153,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				E69653682C79877500755046 /* TogglesPractice.swift in Sources */,
+				E696536C2C79936300755046 /* ColorPickers.swift in Sources */,
+				E696536A2C798C5500755046 /* PickerFields.swift in Sources */,
+				E696536E2C7995B000755046 /* DatePickerBootcamp.swift in Sources */,
 				E696535A2C791C4F00755046 /* TextFields.swift in Sources */,
 				E69653662C79810A00755046 /* TextEditorView.swift in Sources */,
 				E69653582C791C4F00755046 /* SwiftUIBasicsObjectsApp.swift in Sources */,
